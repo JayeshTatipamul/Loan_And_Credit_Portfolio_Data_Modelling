@@ -65,10 +65,10 @@ Stores payment split (principal, interest, charges), overdue flag, payment chann
 ## 🖼️ 4. ERD (Entity Relationship Diagram)
 
 ### **PNG**
-![ERD](erd/loan_portfolio_erd.png)
+![ERD](loan_portfolio_erd.png)
 
 ### **SVG**
-![ERD](erd/loan_portfolio_erd.svg)
+![ERD](loan_portfolio_erd.svg)
 
 ---
 
