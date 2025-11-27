@@ -83,10 +83,8 @@ loan-portfolio-analytics/
 │   ├── analytics_queries.sql
 │   └── views.sql
 │
-├── erd/
-│   ├── loan_portfolio_erd.png
-│   └── loan_portfolio_erd.svg
-│
+├── loan_portfolio_erd.png
+├── loan_portfolio_erd.svg
 └── README.md
 ```
 
@@ -247,10 +245,7 @@ USE nbfc_dw;
 
 Then:
 
-1. Run `sql/schema.sql`
-2. Run `sql/sample_data.sql`
-3. Run `sql/views.sql`
-4. Run `sql/analytics_queries.sql`
+1. Run `Loan_Credit_Portfolio_Data_Modelling.sql`
 
 Connect using Power BI/Tableau → use  
 `vw_portfolio_snapshot`, `fact_payment_txn`, and dimensions.
