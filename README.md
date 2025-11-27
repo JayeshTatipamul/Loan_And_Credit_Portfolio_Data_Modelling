@@ -92,7 +92,7 @@ loan-portfolio-analytics/
 
 ## 🧱 6. Database Schema (High-Level)
 
-Your star schema includes:
+Star schema includes:
 
 - Auto-increment surrogate keys
 - Proper foreign key constraints
@@ -257,7 +257,7 @@ Connect using Power BI/Tableau → use
 - SQL Data Modelling (Star Schema)
 - Dimensional Modelling & Warehouse Design
 - Credit Risk Analytics (SMA, NPA, DPD)
-- Query Optimization
+- Query Optimisation
 - BI-ready Semantic Layer (Views)
 - Data Quality via Referential Integrity
 - Real-world NBFC/Bank domain understanding
